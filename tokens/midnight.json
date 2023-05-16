@@ -1,0 +1,46 @@
+{
+  "color": {
+    "neutral": {
+      "bg10": {
+        "value": "#373734",
+        "type": "color"
+      },
+      "bg20": {
+        "value": "#3E3D3A",
+        "type": "color"
+      },
+      "bg30": {
+        "value": "#454440",
+        "type": "color"
+      },
+      "fg10": {
+        "value": "#595751",
+        "type": "color"
+      },
+      "fg25": {
+        "value": "#7F796F",
+        "type": "color"
+      },
+      "fg45": {
+        "value": "#A8A196",
+        "type": "color"
+      },
+      "fg60": {
+        "value": "#C3BDAF",
+        "type": "color"
+      },
+      "fg75": {
+        "value": "#DBD6CC",
+        "type": "color"
+      },
+      "fg90": {
+        "value": "#F1EEE9",
+        "type": "color"
+      },
+      "fg100": {
+        "value": "#FDFDFC",
+        "type": "color"
+      }
+    }
+  }
+}
