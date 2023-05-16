@@ -1,6 +1,18 @@
 {
   "color": {
     "neutral": {
+      "000": {
+        "value": "#FFFFFF",
+        "type": "color"
+      },
+      "010": {
+        "value": "#FBFAF9",
+        "type": "color"
+      },
+      "025": {
+        "value": "#F7F5F3",
+        "type": "color"
+      },
       "100": {
         "value": "#EDEAE3",
         "type": "color"
@@ -27,18 +39,6 @@
       },
       "1000": {
         "value": "#2E2E2B",
-        "type": "color"
-      },
-      "000": {
-        "value": "#FFFFFF",
-        "type": "color"
-      },
-      "010": {
-        "value": "#FBFAF9",
-        "type": "color"
-      },
-      "025": {
-        "value": "#F7F5F3",
         "type": "color"
       }
     }
