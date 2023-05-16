@@ -42,5 +42,12 @@
         "type": "color"
       }
     }
+  },
+  "focus": {
+    "value": {
+      "color": "{color.neutral.fg100}",
+      "width": "2"
+    },
+    "type": "border"
   }
 }
