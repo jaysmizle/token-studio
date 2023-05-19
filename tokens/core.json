@@ -1,53 +1,48 @@
 {
   "color": {
-    "neutral": {
-      "bg10": {
+    "neutral-background": {
+      "bg-10": {
         "value": "#FFFFFF",
         "type": "color"
       },
-      "bg20": {
+      "bg-20": {
         "value": "#FBFAF9",
         "type": "color"
       },
-      "bg30": {
+      "bg-30": {
         "value": "#F7F5F3",
         "type": "color"
-      },
-      "fg10": {
+      }
+    },
+    "neutral-foreground": {
+      "fg-10": {
         "value": "#EDEAE3",
         "type": "color"
       },
-      "fg25": {
+      "fg-25": {
         "value": "#D5CFC3",
         "type": "color"
       },
-      "fg45": {
+      "fg-45": {
         "value": "#B2AB9F",
         "type": "color"
       },
-      "fg60": {
+      "fg-60": {
         "value": "#958E83",
         "type": "color"
       },
-      "fg75": {
+      "fg-75": {
         "value": "#736E65",
         "type": "color"
       },
-      "fg90": {
+      "fg-90": {
         "value": "#4B4A48",
         "type": "color"
       },
-      "fg100": {
+      "fg-100": {
         "value": "#2E2E2B",
         "type": "color"
       }
     }
-  },
-  "focus": {
-    "value": {
-      "color": "{color.neutral.fg100}",
-      "width": "2"
-    },
-    "type": "border"
   }
 }

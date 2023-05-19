@@ -45,7 +45,7 @@
   },
   "focus": {
     "value": {
-      "color": "{color.neutral.fg100}",
+      "color": "{color.neutral-foregrounds.fg100}",
       "width": "2"
     },
     "type": "border"
